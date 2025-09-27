@@ -1,0 +1,25 @@
+# Core Data Science Libraries
+pandas==1.3.5
+numpy==1.21.6
+scikit-learn==1.1.3
+
+# MLOps and Workflow Orchestration
+apache-airflow==2.1.4
+
+# Jupyter and Analysis
+jupyter==1.0.0
+matplotlib==3.5.3
+seaborn==0.12.1
+
+# Data Validation and Quality
+great-expectations==0.15.41
+
+# Development and Testing
+pytest==7.2.0
+black==22.10.0
+flake8==5.0.4
+
+# Optional: Database and Monitoring (uncomment as needed)
+# psycopg2-binary==2.9.5  # PostgreSQL
+# prometheus-client==0.15.0  # Monitoring
+# mlflow==2.0.1  # ML experiment tracking
