@@ -7,6 +7,13 @@
 
 A production-ready MLOps pipeline for automated data preprocessing of mobile app usage data, featuring Apache Airflow orchestration, machine learning model training, and comprehensive data validation.
 
+<p align="center">
+  <img src="assets/airflow.png" width="100%" alt="Airflow">
+</p>
+
+<p align="center"><em>Apache Airflow Dashboard with DAG runs</em></p>
+
+
 ## 🎯 Project Overview
 
 This project demonstrates a complete MLOps workflow that automatically preprocesses screentime data, performs feature engineering, and prepares data for machine learning models. The pipeline runs daily using Apache Airflow, ensuring consistent and reliable data processing.
@@ -169,13 +176,6 @@ The pipeline provides comprehensive monitoring through:
 - **Alert System**: Failure notifications and retry mechanisms
 - **Web Dashboard**: Visual pipeline status and history
 
-## 📸 Screenshots
-
-### Airflow Dashboard
-![Airflow Dashboard showing successful pipeline executions](https://via.placeholder.com/800x400/0066cc/ffffff?text=Airflow+Dashboard+-+Successful+Pipeline+Runs)
-
-### Pipeline Graph
-![DAG graph showing task dependencies](https://via.placeholder.com/600x300/009900/ffffff?text=Pipeline+Task+Dependencies)
 
 ## 🧪 Model Performance
 
@@ -261,14 +261,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Mehardeep Singh Sandhu**
-- GitHub: [@mehardeepsinghsandhu](https://github.com/mehardeepsinghsandhu)
-- LinkedIn: [Mehardeep Singh Sandhu](https://linkedin.com/in/mehardeepsinghsandhu)
+- GitHub: [Mehardeep79](https://github.com/Mehardeep79)
+- LinkedIn: [Mehardeep Singh Sandhu](https://www.linkedin.com/in/mehardeep-singh-sandhu/)
 
-## 🙏 Acknowledgments
-
-- Apache Airflow community for the excellent orchestration platform
-- Scikit-learn team for machine learning tools
-- Open source community for continuous inspiration
 
 ## 📚 Next Steps
 
@@ -279,6 +274,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Add data lineage tracking
 - [ ] Implement automated model retraining
 
----
 
-**Made with ❤️ for the MLOps community**
