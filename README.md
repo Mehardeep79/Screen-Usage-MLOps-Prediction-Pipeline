@@ -52,7 +52,7 @@ MLOps_Pipeline_Apps_Usage/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/MLOps_Pipeline_Apps_Usage.git
+   git clone https://github.com/Mehardeep79/Screen-Usage-MLOps-Prediction-Pipeline.git
    cd MLOps_Pipeline_Apps_Usage
    ```
 
